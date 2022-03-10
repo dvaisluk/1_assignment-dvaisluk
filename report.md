@@ -17,3 +17,4 @@
 
 ![](https://github.com/dvaisluk/1_assignment-dvaisluk/raw/main/png/m.png)
 
+![](https://github.com/dvaisluk/1_assignment-dvaisluk/raw/main/png/ex.png)
